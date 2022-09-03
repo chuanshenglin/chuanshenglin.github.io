@@ -5,3 +5,17 @@ html{
   font-family: 'EB Garamond', 'Noto Serif TC', serif;
   padding: 0 20px 20px 20px;
 }
+
+a {
+  text-decoration:none;
+  color:black;
+}
+a:hover {
+  text-decoration:underline;
+  background-color:#fafafa;
+  color:gray;
+}
+a:active {
+  background-color:gray;
+  color:#fafafa;
+}
